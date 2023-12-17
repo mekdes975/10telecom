@@ -16,6 +16,9 @@ def main():
         display_Home_section()
 def display_Home_section():
     st.title('welcome to telecome user analytics page')
+    '''
+    some introduction about the project 
+    '''
 def display_eda_section():
     st.title('Exploratory Data Analysis (EDA)')
     # Your EDA code goes here
