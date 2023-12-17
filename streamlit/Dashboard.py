@@ -42,7 +42,5 @@ def display_other_section():
 
 if __name__ == "__main__":
 
-    if selected_option == 'User Engagement':
-
-        display_user_engagement_section()
+    
     main()
